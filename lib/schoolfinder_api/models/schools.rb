@@ -16,7 +16,7 @@ module SchoolfinderApi
         
         @schools = []
         @parser.xpath('//record').children.each do |elm|
-          @schools << School.new(elm.xpath('//school').to_xml)
+          @schools << School.new(elm.to_xml)
         end
       end
     end
