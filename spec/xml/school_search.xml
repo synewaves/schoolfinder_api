@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+   <record>
+      <school>
+         <schoolid>99932</schoolid>
+         <schoolname>St James Episcopal Day School</schoolname>
+         <zip>70821</zip>
+         <address>445 Convention St</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>0.68934968594462</distance>
+         <enrollment>
+            <total>265</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK, K-5</gradesserved>
+         <latitude>30.4484863</latitude>
+         <longitude>-91.1863861</longitude>
+         <phonenumber>(225) 344-0805</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>10</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>00540942</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/st-james-episcopal-day-school/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74654</schoolid>
+         <schoolname><![CDATA[Children's Charter School]]></schoolname>
+         <zip>70802</zip>
+         <address>1143 North St</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>0.87379800336779</distance>
+         <enrollment>
+            <total>237</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4533634</latitude>
+         <longitude>-91.1781387</longitude>
+         <phonenumber>(225) 387-9273</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Charter</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>20</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000628</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/childrens-charter-school/]]></url>
+         <testratingtext>Education.com TestRating 4</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating4.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating4.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>99861</schoolid>
+         <schoolname>Holy Family School</schoolname>
+         <zip>70767</zip>
+         <address>335 N Jefferson Ave</address>
+         <city>Port Allen</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.0927378749665</distance>
+         <enrollment>
+            <total>445</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle</gradelevel>
+         <gradesserved>K-8</gradesserved>
+         <latitude>30.4548054</latitude>
+         <longitude>-91.2055511</longitude>
+         <phonenumber>(225) 344-4100</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>20</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>00539143</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/port-allen/holy-family-school/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74674</schoolid>
+         <schoolname>J. K. Haynes Elementary Charter School</schoolname>
+         <zip>70802</zip>
+         <address>356 East Blvd</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.1377100585881</distance>
+         <enrollment>
+            <total>213</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4441624</latitude>
+         <longitude>-91.1807327</longitude>
+         <phonenumber>(225) 346-0067</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Charter</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>43</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000679</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/j-k-haynes-elementary-charter-school/]]></url>
+         <testratingtext>Education.com TestRating 5</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating5.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating5.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>75583</schoolid>
+         <schoolname>Port Allen Elementary School</schoolname>
+         <zip>70767</zip>
+         <address>609 Rosedale St</address>
+         <city>Port Allen</city>
+         <districtid>12464</districtid>
+         <districtleaid>2201920</districtleaid>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.1953249985882</distance>
+         <enrollment>
+            <total>294</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-01</gradesserved>
+         <latitude>30.4634972</latitude>
+         <longitude>-91.2063599</longitude>
+         <phonenumber>(225) 343-7586</phonenumber>
+         <schooldistrictname>West Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>11</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220192001463</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/port-allen/port-allen-elementary-school/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>75585</schoolid>
+         <schoolname>Port Allen Middle School</schoolname>
+         <zip>70767</zip>
+         <address>610 Rosedale St</address>
+         <city>Port Allen</city>
+         <districtid>12464</districtid>
+         <districtleaid>2201920</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.1987339517316</distance>
+         <enrollment>
+            <total>312</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle</gradelevel>
+         <gradesserved>05-08</gradesserved>
+         <latitude>30.4634953</latitude>
+         <longitude>-91.2064133</longitude>
+         <phonenumber>(225) 383-5777</phonenumber>
+         <schooldistrictname>West Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>11</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220192001548</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/port-allen/port-allen-middle-school/]]></url>
+         <testratingtext>Education.com TestRating 4</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating4.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating4.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>112536</schoolid>
+         <schoolname>Shiloh Baptist Early Learning Academy</schoolname>
+         <zip>70802</zip>
+         <address>182 Eddie Robinson SR Dr</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.2425487699314</distance>
+         <enrollment>
+            <total>138</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK, K-1</gradesserved>
+         <latitude>30.4465275</latitude>
+         <longitude>-91.1759567</longitude>
+         <phonenumber>(225) 343-4734</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>26</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>A0301679</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/shiloh-baptist-early-learning/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74656</schoolid>
+         <schoolname>Community School for Apprenticeship Learning</schoolname>
+         <zip>70802</zip>
+         <address>1555 Madison Ave</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.3238910534199</distance>
+         <enrollment>
+            <total>162</total>
+         </enrollment>
+         <gradelevel>Middle</gradelevel>
+         <gradesserved>06-08</gradesserved>
+         <latitude>30.4680653</latitude>
+         <longitude>-91.17379</longitude>
+         <phonenumber>(225) 356-1410</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Charter</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>18</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000673</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/community-school-for-apprenticeship-learning/]]></url>
+         <testratingtext>Education.com TestRating 5</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating5.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating5.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74706</schoolid>
+         <schoolname>South Boulevard Extended Day School</schoolname>
+         <zip>70802</zip>
+         <address>802 Mayflower</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.3320699745131</distance>
+         <enrollment>
+            <total>289</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4402905</latitude>
+         <longitude>-91.1818695</longitude>
+         <phonenumber>(225) 343-6630</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Magnet</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>15</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000429</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/south-boulevard-extended-day-school/]]></url>
+         <testratingtext>Education.com TestRating 10</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating10.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating10.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>314347</schoolid>
+         <schoolname>Louisiana School for the Visually Impaired</schoolname>
+         <zip>70802</zip>
+         <address>1120 Government St</address>
+         <city>Baton Rouge</city>
+         <districtid>36888</districtid>
+         <districtleaid>2200019</districtleaid>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.3503821526977</distance>
+         <enrollment>
+            <total>81</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle,High</gradelevel>
+         <gradesserved>PK-12</gradesserved>
+         <latitude>30.4435101</latitude>
+         <longitude>-91.1766281</longitude>
+         <phonenumber>(225) 342-8694</phonenumber>
+         <schooldistrictname>Louisiana School for the Visually Impaired School District</schooldistrictname>
+         <schooltype>Sp-Ed</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>3</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220001900193</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/louisiana-school-for-the-visually-impaired/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>127404</schoolid>
+         <schoolname>Louisiana New School Academy</schoolname>
+         <zip>70806</zip>
+         <address>1900 North Blvd Ste C</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.6113261767704</distance>
+         <enrollment>
+            <total>73</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle,High</gradelevel>
+         <gradesserved>5-12</gradesserved>
+         <latitude>30.4474792</latitude>
+         <longitude>-91.1690521</longitude>
+         <phonenumber>(225) 381-7238</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>11</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>A9902112</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/louisiana-new-school-academy/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>99858</schoolid>
+         <schoolname>St Francis Xavier Catholic School</schoolname>
+         <zip>70802</zip>
+         <address>1150 S 12TH St</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.6958539343026</distance>
+         <enrollment>
+            <total>269</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle</gradelevel>
+         <gradesserved>PK, K-8</gradesserved>
+         <latitude>30.4372425</latitude>
+         <longitude>-91.1765289</longitude>
+         <phonenumber>(225) 383-6639</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>15</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>00539085</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/st-francis-xavier-catholic-sch/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74661</schoolid>
+         <schoolname>Dufrocq Montessori School</schoolname>
+         <zip>70806</zip>
+         <address>330 South 19TH St</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.7104022978796</distance>
+         <enrollment>
+            <total>634</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4453125</latitude>
+         <longitude>-91.1685867</longitude>
+         <phonenumber>(225) 343-6323</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Magnet</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>16</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000372</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/dufrocq-montessori-school/]]></url>
+         <testratingtext>Education.com TestRating 4</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating4.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating4.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>99873</schoolid>
+         <schoolname>Sacred Heart School</schoolname>
+         <zip>70802</zip>
+         <address>2251 Main St</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>1.7538355297108</distance>
+         <enrollment>
+            <total>510</total>
+         </enrollment>
+         <gradelevel>Elementary,Middle</gradelevel>
+         <gradesserved>PK, K-8</gradesserved>
+         <latitude>30.4522343</latitude>
+         <longitude>-91.1651993</longitude>
+         <phonenumber>(225) 383-7481</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>17</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>00539314</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/sacred-heart-school/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74702</schoolid>
+         <schoolname>Scotlandville Magnet High School</schoolname>
+         <zip>70802</zip>
+         <address>9147 Elm Grove Garden Dr</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.7692782123723</distance>
+         <enrollment>
+            <total>1232</total>
+         </enrollment>
+         <gradelevel>Middle,High</gradelevel>
+         <gradesserved>08-12</gradesserved>
+         <latitude>30.4424763</latitude>
+         <longitude>-91.1694412</longitude>
+         <phonenumber>(225) 775-3715</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Magnet</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>16</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000423</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/scotlandville-magnet-high-school/]]></url>
+         <testratingtext>Education.com TestRating 3</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating3.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating3.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74651</schoolid>
+         <schoolname>Capitol Pre-College Academy for Boys</schoolname>
+         <zip>70802</zip>
+         <address>1000 North 23RD</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>no</AYPResult>
+         <AYPResultYear>2008</AYPResultYear>
+         <distance>1.8774517402382</distance>
+         <enrollment>
+            <total>210</total>
+         </enrollment>
+         <gradelevel>Middle,High</gradelevel>
+         <gradesserved>8-12</gradesserved>
+         <latitude>30.4593372</latitude>
+         <longitude>-91.1628342</longitude>
+         <phonenumber>(225) 383-0353</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>8</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054001644</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/capitol-pre-college-academy-for-boys/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74652</schoolid>
+         <schoolname>Capitol Pre-College Academy for Girls</schoolname>
+         <zip>70802</zip>
+         <address>1000 North 23RD</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>no</AYPResult>
+         <AYPResultYear>2008</AYPResultYear>
+         <distance>1.8774517402382</distance>
+         <enrollment>
+            <total>244</total>
+         </enrollment>
+         <gradelevel>Middle,High</gradelevel>
+         <gradesserved>8-12</gradesserved>
+         <latitude>30.4593372</latitude>
+         <longitude>-91.1628342</longitude>
+         <phonenumber>(225) 383-0353</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>10</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054001656</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/capitol-pre-college-academy-for-girls/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>75580</schoolid>
+         <schoolname>Cohn Elementary School</schoolname>
+         <zip>70767</zip>
+         <address>806 North 14TH St</address>
+         <city>Port Allen</city>
+         <districtid>12464</districtid>
+         <districtleaid>2201920</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>1.9029908799264</distance>
+         <enrollment>
+            <total>259</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>02-04</gradesserved>
+         <latitude>30.4588394</latitude>
+         <longitude>-91.2175598</longitude>
+         <phonenumber>(225) 343-7164</phonenumber>
+         <schooldistrictname>West Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>9</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220192001460</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/port-allen/cohn-elementary-school/]]></url>
+         <testratingtext>Education.com TestRating 4</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating4.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating4.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74691</schoolid>
+         <schoolname>Park Elementary School</schoolname>
+         <zip>70802</zip>
+         <address>2700 Fuqua St</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>2.032469379491</distance>
+         <enrollment>
+            <total>397</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4575481</latitude>
+         <longitude>-91.1605453</longitude>
+         <phonenumber>(225) 344-2145</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>15</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000407</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/park-elementary-school/]]></url>
+         <testratingtext>Education.com TestRating 2</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating2.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating2.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74639</schoolid>
+         <schoolname>Baton Rouge High School</schoolname>
+         <zip>70806</zip>
+         <address>2825 Government St</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>2.2556397622535</distance>
+         <enrollment>
+            <total>1224</total>
+         </enrollment>
+         <gradelevel>High</gradelevel>
+         <gradesserved>09-12</gradesserved>
+         <latitude>30.4460735</latitude>
+         <longitude>-91.1594849</longitude>
+         <phonenumber>(225) 383-0520</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Magnet</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>17</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000347</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/baton-rouge-high-school/]]></url>
+         <testratingtext>Education.com TestRating 7</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating7.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating7.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>74695</schoolid>
+         <schoolname>Polk Elementary School</schoolname>
+         <zip>70802</zip>
+         <address>408 East Polk</address>
+         <city>Baton Rouge</city>
+         <districtid>12420</districtid>
+         <districtleaid>2200540</districtleaid>
+         <AYPResult>yes</AYPResult>
+         <AYPResultYear>2010</AYPResultYear>
+         <distance>2.3239909267382</distance>
+         <enrollment>
+            <total>206</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK-05</gradesserved>
+         <latitude>30.4264889</latitude>
+         <longitude>-91.1775894</longitude>
+         <phonenumber>(225) 383-2611</phonenumber>
+         <schooldistrictname>East Baton Rouge Parish School District</schooldistrictname>
+         <schooltype>Public</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>11</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>220054000413</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/polk-elementary-school/]]></url>
+         <testratingtext>Education.com TestRating 2</testratingtext>
+         <testratingimagelarge><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/school-rating2.png]]></testratingimagelarge>
+         <testratingimagesmall><![CDATA[http://www.education.com/themes/sky/i/schoolfinder/images/small-school-rating2.png]]></testratingimagesmall>
+         <testratingyear>2010</testratingyear>
+      </school>
+   </record>
+   <record>
+      <school>
+         <schoolid>119120</schoolid>
+         <schoolname>Charity Christian Academy</schoolname>
+         <zip>70802</zip>
+         <address>650 W McKinley St</address>
+         <city>Baton Rouge</city>
+         <districtid>16566</districtid>
+         <districtleaid/>
+         <AYPResult/>
+         <AYPResultYear/>
+         <distance>2.3339616365194</distance>
+         <enrollment>
+            <total>92</total>
+         </enrollment>
+         <gradelevel>Elementary</gradelevel>
+         <gradesserved>PK, K-5</gradesserved>
+         <latitude>30.4243908</latitude>
+         <longitude>-91.1847076</longitude>
+         <phonenumber>(225) 343-4859</phonenumber>
+         <schooldistrictname>LA Private Schools</schooldistrictname>
+         <schooltype>Private</schooltype>
+         <state>LA</state>
+         <studentteacherratio>
+            <total>13</total>
+         </studentteacherratio>
+         <website/>
+         <ncesid>A9701648</ncesid>
+         <url><![CDATA[http://www.education.com/schoolfinder/us/louisiana/baton-rouge/charity-christian-academy/]]></url>
+         <testratingtext/>
+         <testratingimagelarge/>
+         <testratingimagesmall/>
+         <testratingyear/>
+      </school>
+   </record>
+</data>

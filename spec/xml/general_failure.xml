@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+   <faultCode>2</faultCode>
+   <faultString>invalid parameters:  both city and state must be set</faultString>
+   <faultType>error</faultType>
+</data>
