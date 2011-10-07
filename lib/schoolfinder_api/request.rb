@@ -45,7 +45,7 @@ module SchoolfinderApi
     # @param [Hash]   options  Request options.
     def self.uri(function, options = {})
       path = SchoolfinderApi.configuration.path
-      "/#{path}?f=#{function}&sn=sf&v=4&#{hash_to_query_string(options)}"
+      "/#{path}?f=#{function}&sn=sf&v=4&Resf=xml&#{hash_to_query_string(options)}"
     end
 
     # Turns request options into query string.

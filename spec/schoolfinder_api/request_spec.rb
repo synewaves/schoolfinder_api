@@ -60,6 +60,6 @@ end
 
 describe SchoolfinderApi::Request, ".uri" do
   it "generates a request path and query string based on parameters" do
-    SchoolfinderApi::Request.uri("schoolSearch", { :key_with_spaces => 12, :normal => "maybe", :camelCased => 1340}).should == "/service/service.php?f=schoolSearch&sn=sf&v=4&camelCased=1340&key_with_spaces=12&normal=maybe"
+    SchoolfinderApi::Request.uri("schoolSearch", { :key_with_spaces => 12, :normal => "maybe", :camelCased => 1340}).should == "/service/service.php?f=schoolSearch&sn=sf&v=4&Resf=xml&camelCased=1340&key_with_spaces=12&normal=maybe"
   end
 end
