@@ -5,7 +5,7 @@ module SchoolfinderApi
   class Functions
     # Retrieve school profiles for a given area.
     #
-    # Read more at: {http://www.education.com/webservice/documentation/?section=schoolsearch.
+    # Read more at: {http://www.education.com/webservice/documentation/?section=schoolsearch}.
     #
     # \* If using city option, state is also required. If using latitude/longitude options, distance is required. 
     # 
@@ -55,6 +55,41 @@ module SchoolfinderApi
       end
     
       Models::Schools.new(SchoolfinderApi::Request.get("schoolSearch", options))
+    end
+
+    # Returns contextual and branding links to Education.com
+    #
+    # Read more at: {http://www.education.com/webservice/documentation/?section=gbd}.
+    #
+    # \* If using city option, state is also required.
+    # 
+    # @example
+    #   info = SchoolfinderApi::Functions.gdb()
+    #   if info.success?
+    #   end
+    #
+    # @param [Hash] options The options for the API request.
+    # @option options [String] :nces_id     The National Center for Education Statistics (NCES) id of the school.
+    # @option options [String] :schoolid    The Education.com id of the school.
+    # @option options [String] :districtid  The internal Education.com id of a school district.
+    # @option options [String] :city        The name of a city (*).
+    # @option options [String] :state       The two letter abbreviation of a state.
+    # @return [Models::Schools] GBD information
+    def self.gbd(options = {})
+      options = {
+        :key => SchoolfinderApi.configuration.key,
+        :nces_id => nil,
+        :schoolid => nil,
+        :districtid => nil,
+        :city => nil,
+        :state => nil,
+      }.merge!(options)
+      
+      if !options[:city].nil? && options[:state].nil?
+        raise ArgumentError, "The state option is required if also using the city option"
+      end
+      
+      Models::Gbd.new(SchoolfinderApi::Request.get("gbd", options))
     end
   end
 end

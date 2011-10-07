@@ -24,4 +24,22 @@ describe SchoolfinderApi::Functions do
       response.should be_an_instance_of(SchoolfinderApi::Models::Schools)
     end
   end
+  
+  describe "gdb" do
+    let(:request)  { stub("Request", :get => response) }
+    let(:response) { stub("Response", :body => "", :code => 200) }
+    
+    it "requires state option if passing city option" do
+      lambda {
+        SchoolfinderApi::Functions.gbd({ :city => 'Baton Rouge' })
+      }.should raise_error(ArgumentError, "The state option is required if also using the city option")
+    end
+    
+    it "fetches the XML" do
+      SchoolfinderApi::Request.stubs(:request).returns(request)
+
+      response = SchoolfinderApi::Functions.gbd({ :city => 'Baton Rouge', :state => 'LA' })
+      response.should be_an_instance_of(SchoolfinderApi::Models::Gbd)
+    end
+  end
 end

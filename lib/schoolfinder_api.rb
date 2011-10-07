@@ -5,6 +5,7 @@ require "schoolfinder_api/functions"
 require "schoolfinder_api/models"
 require "schoolfinder_api/models/schools"
 require "schoolfinder_api/models/school"
+require "schoolfinder_api/models/gbd"
 
 # Top-level interface to SchoolfinderApi
 module SchoolfinderApi

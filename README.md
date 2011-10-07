@@ -5,6 +5,7 @@ SchoolfinderApi is a ruby library to access the [Education.com SchoolFinder API]
 Supports the following API methods, with real ruby classes returned for each call.
 
 * [schoolSearch](http://www.education.com/webservice/documentation/?section=schoolsearch)
+* [gbd](http://www.education.com/webservice/documentation/?section=gbd)
 
 # Installing
 
